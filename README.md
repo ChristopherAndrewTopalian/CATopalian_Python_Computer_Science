@@ -175,6 +175,8 @@ A Python tutorial series that teaches pure functional programming with a data dr
 
 - [round_down_floor.py](src/py/014_convert/round_down_floor.py)
 
+- [round_up_ceil.py](src/py/014_convert/round_up_ceil.py)
+
 - [desktop_list_files.py](src/py/015_desktop/desktop_list_files/desktop_list_files.py)
 
 - [desktop_path.py](src/py/015_desktop/desktop_path/desktop_path.py)
