@@ -1,14 +1,12 @@
-# print_with_line_break.py
+# random_float_1_to_10.py
 
-print('Hi Everyone\nHappy Scripting')
+import random
 
-input('Press Enter to Exit')
+# Generate a random float between 1 and 10
+random_float = random.uniform(1, 10)
+print(random_float)
 
-'''
-Hi Everyone
-Happy Scripting
-Press Enter to Exit
-'''
+####
 
 # Dedicated to God the Father
 # (c) Copyright 2000-2026 Christopher Andrew Topalian. All rights reserved.

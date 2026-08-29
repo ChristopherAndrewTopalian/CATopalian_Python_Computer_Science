@@ -4,7 +4,8 @@ ourList = [0, 1, 2, 3, 4, 5]
 
 ourChoice = int(input('Enter 0 to 5: \n'))
 
-print('We chose:', ourList[ourChoice])
+#print('We chose:', ourList[ourChoice])
+print(f'We chose: {ourList[ourChoice]}')
 
 input('Press Enter to Exit')
 

@@ -1,13 +1,18 @@
-# print_with_line_break.py
+# while_loop_if.py
 
-print('Hi Everyone\nHappy Scripting')
+counter = 0
 
-input('Press Enter to Exit')
+while True:
+    if (counter < 3):
+        print('Hi')
+        counter += 1
+
+####
 
 '''
-Hi Everyone
-Happy Scripting
-Press Enter to Exit
+Hi
+Hi
+Hi
 '''
 
 # Dedicated to God the Father
