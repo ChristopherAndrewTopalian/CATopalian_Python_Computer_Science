@@ -7191,7 +7191,7 @@ os.startfile('C:/Users/ourUserName/Desktop/testFile.odt')
 ```python
 # open_readline.py
 
-theData = open('C:/Users/energy/Desktop/testFile.txt', 'r')
+theData = open('C:/Users/ourUserName/Desktop/testFile.txt', 'r')
 
 firstline = theData.readline()
 
@@ -7217,7 +7217,7 @@ theData.close()
 ```python
 # open_readline_for.py
 
-theData = open('C:/Users/energy/Desktop/testFile.txt', 'r')
+theData = open('C:/Users/ourUserName/Desktop/testFile.txt', 'r')
 
 for line in theData:
     print (line, end = '')

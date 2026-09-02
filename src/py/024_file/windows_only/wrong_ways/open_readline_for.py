@@ -1,6 +1,6 @@
 # open_readline_for.py
 
-theData = open('C:/Users/energy/Desktop/testFile.txt', 'r')
+theData = open('C:/Users/ourUserName/Desktop/testFile.txt', 'r')
 
 for line in theData:
     print (line, end = '')

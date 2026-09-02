@@ -1,6 +1,6 @@
 # open_readline.py
 
-theData = open('C:/Users/energy/Desktop/testFile.txt', 'r')
+theData = open('C:/Users/ourUserName/Desktop/testFile.txt', 'r')
 
 firstline = theData.readline()
 
