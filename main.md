@@ -90,7 +90,7 @@ Twenty
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://sites.google.com/view/CollegeOfScripting
 ```
@@ -117,7 +117,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -145,7 +145,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -176,7 +176,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -220,7 +220,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -252,7 +252,7 @@ input('Press Enter to Exit')
 '''
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -290,7 +290,7 @@ Jane
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -321,7 +321,7 @@ Press Enter to Exit
 '''
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -369,7 +369,7 @@ input("Press Enter to Exit")
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -404,7 +404,7 @@ Count to 4
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -451,7 +451,7 @@ The sun will be there soon
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -487,7 +487,7 @@ Type 1 and press Enter
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -526,7 +526,7 @@ Count to 4
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -565,7 +565,7 @@ Press Enter to Exit
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -597,7 +597,7 @@ Press Enter to Exit
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -631,7 +631,7 @@ Press Enter to Exit
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -667,7 +667,7 @@ Press Enter to Exit
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -705,7 +705,7 @@ Press Enter to Exit
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -738,7 +738,7 @@ Press Enter to Exit
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -776,7 +776,7 @@ Press Enter to Exit
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -811,7 +811,7 @@ a
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -1003,7 +1003,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -1041,7 +1041,7 @@ We chose: 4
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -1070,7 +1070,7 @@ Press Enter to Exit
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -1101,7 +1101,7 @@ Press Enter to Exit
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -1130,7 +1130,7 @@ Press Enter to Exit
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -1161,7 +1161,7 @@ Press Enter to Exit
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -1196,7 +1196,7 @@ Press Enter to Exit
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -1238,7 +1238,7 @@ Press Enter to Exit
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -1274,7 +1274,7 @@ Tabitha
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -1308,7 +1308,7 @@ Jane
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -1343,7 +1343,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -1378,7 +1378,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -1416,7 +1416,7 @@ Press Enter to Exit
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -1468,7 +1468,7 @@ Press Enter to Exit
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -1520,7 +1520,7 @@ Press Enter to Exit
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -1622,7 +1622,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -1672,7 +1672,7 @@ Press Enter to Exit
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -1720,7 +1720,7 @@ Press Enter to Exit
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -1770,7 +1770,7 @@ Press Enter to Exit
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -1808,7 +1808,7 @@ Press Enter to Exit
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -1839,7 +1839,7 @@ Press Enter to Exit
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -1863,7 +1863,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -1885,7 +1885,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -1909,7 +1909,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -1943,7 +1943,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -1967,7 +1967,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -1996,7 +1996,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -2020,7 +2020,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -2042,7 +2042,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -2098,7 +2098,7 @@ input('Press Enter to Exit')
 '''
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 ```
@@ -2129,7 +2129,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 ```
@@ -2158,7 +2158,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 ```
@@ -2185,7 +2185,7 @@ Username is: Christopher
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 ```
@@ -2217,7 +2217,7 @@ Username is: Christopher
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 ```
@@ -2247,7 +2247,7 @@ modgnik
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://sites.google.com/view/CollegeOfScripting
 ```
@@ -2282,7 +2282,7 @@ Hi Jane. Tell Christopher to sign in.
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://sites.google.com/view/CollegeOfScripting
 ```
@@ -2313,7 +2313,7 @@ Lee
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -2343,7 +2343,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -2372,7 +2372,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://sites.google.com/view/CollegeOfScripting
 ```
@@ -2399,7 +2399,7 @@ Opens Default Web Browser to a Web Page.
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -2421,7 +2421,7 @@ webbrowser.open(url)
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -2446,7 +2446,7 @@ else:
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -2475,7 +2475,7 @@ else:
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -2526,7 +2526,7 @@ with open('ourNewWebpage.html', 'w') as theFile:
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -2580,7 +2580,7 @@ with open('ourNewWebpage.html', 'w') as theFile:
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -2613,7 +2613,7 @@ else:
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -2647,7 +2647,7 @@ else:
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -2680,7 +2680,7 @@ else:
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -2708,7 +2708,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -2739,7 +2739,7 @@ Press Enter to Exit
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -2770,7 +2770,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -2803,7 +2803,7 @@ Shows a calendar for the specified year and month
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -2836,7 +2836,7 @@ current year and month
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -2863,7 +2863,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -2908,7 +2908,7 @@ makeUpdatingClock()
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -3254,7 +3254,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -3285,7 +3285,7 @@ Press Enter to Exit
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -3317,7 +3317,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -3350,7 +3350,7 @@ Press Enter to Exit
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -3389,7 +3389,7 @@ for f in files:
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -3417,7 +3417,7 @@ print(thePath)
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -3477,7 +3477,7 @@ input('Press Enter to Exit')
 # or we could alternatively use os.path module.
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 ```
@@ -3524,7 +3524,7 @@ notes.txt
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -3575,7 +3575,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -3631,7 +3631,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -3670,7 +3670,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -3711,7 +3711,7 @@ test.py
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -3750,7 +3750,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -3789,7 +3789,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -3819,7 +3819,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -3854,7 +3854,7 @@ listdir_endswith.py
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -3888,7 +3888,7 @@ Makes a new folder with a specified name if it doesn't already exist.
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -4024,7 +4024,7 @@ in the same folder as this script.
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -4061,7 +4061,7 @@ Makes a new text file with a specified name if it doesn't already exist.
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherAndrewTopalian
 # https://github.com/ChristopherTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -4088,7 +4088,7 @@ Press Enter to Exit
 '''
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherAndrewTopalian
 # https://github.com/ChristopherTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -4115,7 +4115,7 @@ Press Enter to Exit
 '''
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherAndrewTopalian
 # https://github.com/ChristopherTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -4144,7 +4144,7 @@ Press Enter to Exit
 '''
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherAndrewTopalian
 # https://github.com/ChristopherTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -4176,7 +4176,7 @@ Press Enter to Exit
 '''
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherAndrewTopalian
 # https://github.com/ChristopherTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -4205,7 +4205,7 @@ Press Enter to Exit
 '''
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherAndrewTopalian
 # https://github.com/ChristopherTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -4228,7 +4228,7 @@ print(ourText)
 input("Press Enter to Exit")
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherAndrewTopalian
 # https://github.com/ChristopherTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -4261,7 +4261,7 @@ Press Enter to Exit
 '''
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherAndrewTopalian
 # https://github.com/ChristopherTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -4296,7 +4296,7 @@ if __name__ == "__main__":
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -4320,7 +4320,7 @@ print(answer)
 input("Press Enter to Exit")
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherAndrewTopalian
 # https://github.com/ChristopherTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -4347,7 +4347,7 @@ print(ourFunction())
 input("Press Enter to Exit")
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherAndrewTopalian
 # https://github.com/ChristopherTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -4370,7 +4370,7 @@ print(ourText)
 input("Press Enter to Exit")
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherAndrewTopalian
 # https://github.com/ChristopherTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -4393,7 +4393,7 @@ print(ourText)
 input("Press Enter to Exit")
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherAndrewTopalian
 # https://github.com/ChristopherTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -4418,7 +4418,7 @@ print(ourText)
 input("Press Enter to Exit")
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherAndrewTopalian
 # https://github.com/ChristopherTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -4442,7 +4442,7 @@ print(answer)
 input("Press Enter to Exit")
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherAndrewTopalian
 # https://github.com/ChristopherTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -4470,7 +4470,7 @@ ourImage.save('ourNewTexture.png')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -4511,7 +4511,7 @@ while True:
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -4563,7 +4563,7 @@ while True:
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -4610,7 +4610,7 @@ or
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -4637,7 +4637,7 @@ ourImage.save(nameOfImage + '.png')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -4683,7 +4683,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -4728,7 +4728,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -4772,7 +4772,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -4816,7 +4816,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -4861,7 +4861,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -4907,7 +4907,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -4952,7 +4952,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -4996,7 +4996,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -5041,7 +5041,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -5085,7 +5085,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -5130,7 +5130,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -5175,7 +5175,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -5220,7 +5220,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -5265,7 +5265,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -5319,7 +5319,7 @@ input("Press Enter to Exit")
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -5365,7 +5365,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -5414,7 +5414,7 @@ if __name__ == "__main__":
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -5472,7 +5472,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -5531,7 +5531,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -5591,7 +5591,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -5647,7 +5647,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -5704,7 +5704,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -5762,7 +5762,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -5821,7 +5821,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -5877,7 +5877,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -5936,7 +5936,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -5992,7 +5992,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -6050,7 +6050,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -6108,7 +6108,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -6166,7 +6166,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -6224,7 +6224,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -6285,7 +6285,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -6346,7 +6346,7 @@ input('Press Enter to Exit')
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -6415,7 +6415,7 @@ if __name__ == "__main__":
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -6851,7 +6851,7 @@ print(inspect.getfile(inspect))
 input('Press Enter to Exit')
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 ```
@@ -6883,7 +6883,7 @@ else:
 input('Press Enter to Exit')
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 ```
@@ -6925,7 +6925,7 @@ def open_module_in_editor(module):
 open_module_in_editor(datetime)
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 ```
@@ -6970,7 +6970,7 @@ def open_module_in_editor(module):
 open_module_in_editor(datetime)
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 ```
@@ -6988,7 +6988,7 @@ with open("myscripts.txt", "a") as file:
     file.write("This line is being added to the end.\n")
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherAndrewTopalian
 # https://github.com/ChristopherTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -7016,7 +7016,7 @@ with open('text001.txt', 'a') as file:
         # file.flush() # Optional: forces the save to disk immediately
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherAndrewTopalian
 # https://github.com/ChristopherTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -7042,7 +7042,7 @@ with open('text001.txt', 'a') as file:
         os.fsync(file.fileno())
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherAndrewTopalian
 # https://github.com/ChristopherTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -7064,7 +7064,7 @@ with open(file_path, 'r') as theData:
         print(line, end='')
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherAndrewTopalian
 # https://github.com/ChristopherTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -7084,7 +7084,7 @@ with open(file_path, 'r') as theData:
         print(line, end='')
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherAndrewTopalian
 # https://github.com/ChristopherTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -7109,7 +7109,7 @@ with open(file_path, 'r') as theData:
         print(line, end='')
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherAndrewTopalian
 # https://github.com/ChristopherTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -7149,7 +7149,7 @@ input('Press Enter to Exit')
 """
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherAndrewTopalian
 # https://github.com/ChristopherTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -7176,7 +7176,7 @@ os.startfile('C:/Users/ourUserName/Desktop/testFile.odt')
 # alternatively we could use the Path library
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherAndrewTopalian
 # https://github.com/ChristopherTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -7204,7 +7204,7 @@ print(secondline)
 theData.close()
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherAndrewTopalian
 # https://github.com/ChristopherTopalian
 # https://sites.google.com/view/CollegeOfScripting
@@ -7225,7 +7225,7 @@ for line in theData:
 theData.close()
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherAndrewTopalian
 # https://github.com/ChristopherTopalian
 # https://sites.google.com/view/CollegeOfScripting
