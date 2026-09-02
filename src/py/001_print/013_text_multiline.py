@@ -1,26 +1,9 @@
-# repeat_print.py
+# text_multiline.py
 
-name = 'Jane'
+print('''hi
+everyone''')
 
-def repeatPrint(whichMessage, whichAmount):
-    for i in range(1, whichAmount + 1):
-        print(whichMessage)
-
-####
-
-repeatPrint(name, 5)
-
-input('Press Enter to Exit')
-
-####
-
-'''
-Jane
-Jane
-Jane
-Jane
-Jane
-'''
+input("Press Enter to Exit")
 
 ####
 

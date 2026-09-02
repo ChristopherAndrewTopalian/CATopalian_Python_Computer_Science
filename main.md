@@ -298,6 +298,85 @@ Jane
 
 ---
 
+### `011_print_separator.py`
+
+```python
+# print_separator.py
+
+ourList = [ 1, 2, 3, 4, 5 ]
+
+print(*ourList, sep="\n")
+
+input("Press Enter to Exit")
+
+####
+
+'''
+1
+2
+3
+4
+5
+Press Enter to Exit
+'''
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# https://github.com/ChristopherTopalian
+# https://github.com/ChristopherAndrewTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `012_print_list_simple.py`
+
+```python
+# print_list.py
+
+ourList = [1, 2, 3, 4, 5]
+
+print(ourList)
+
+input("Press Enter to Exit")
+
+####
+
+'''
+[1, 2, 3, 4, 5]
+Press Enter to Exit
+'''
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
+# https://github.com/ChristopherTopalian
+# https://github.com/ChristopherAndrewTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `013_text_multiline.py`
+
+```python
+# text_multiline.py
+
+print('''hi
+everyone''')
+
+input("Press Enter to Exit")
+
+####
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# https://github.com/ChristopherTopalian
+# https://github.com/ChristopherAndrewTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
 ## Section: 002_sleep
 
 ### `001_sleep_print.py`
@@ -740,9 +819,137 @@ a
 
 ---
 
+### `009_for_in_list_loop.py`
+
+```python
+# for_in_list_loop.py
+
+names = ['Jane', 'Jennifer', 'Melissa', 'Tabitha']
+
+for ourVariable in names:
+    print(ourVariable)
+
+input("Press Enter to Exit")
+
+####
+
+'''
+Jane
+Jennifer
+Melissa
+Tabitha
+Press Enter to Exit
+'''
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `010_for_in_loop_2.py`
+
+```python
+# for_in_loop.py
+
+for ourVariable in "Howdy":
+    print(ourVariable)
+
+input("Press Enter to Exit")
+
+####
+
+'''
+H
+o
+w
+d
+y
+Press Enter to Exit
+'''
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `011_for_in_list_loop_reversed.py`
+
+```python
+# for_in_list_loop_reversed.py
+
+names = ['Jane', 'Jennifer', 'Melissa', 'Tabitha']
+
+for ourVariable in reversed(names):
+    print(ourVariable)
+
+input("Press Enter to Exit")
+
+####
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `012_for_in_list_loop_variable_reversed.py`
+
+```python
+# for_in_list_loop_variable_reversed.py
+
+names = ['Jane', 'Jennifer', 'Melissa', 'Tabitha']
+
+names = reversed(names)
+
+for ourVariable in names:
+    print(ourVariable)
+
+input("Press Enter to Exit")
+
+####
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
 ## Section: 003_while_loop
 
-### `001_while_loop_if.py`
+### `001_while_True.py`
+
+```python
+# while_True.py
+
+while True:
+    print('hi')
+
+####
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `002_while_loop_if.py`
 
 ```python
 # while_loop_if.py
@@ -1843,6 +2050,34 @@ input('Press Enter to Exit')
 
 ---
 
+### `010_what_type_is_variable.py`
+
+```python
+# what_type_is_variable.py
+
+import os
+
+x = "Hi Everyone"
+
+print(type(x))
+
+input('Press Enter to Exit')
+
+####
+
+'''
+<class 'str'>
+'''
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
 ## Section: 006_string
 
 ### `001_count_letters_a.py`
@@ -2717,9 +2952,9 @@ Fri Oct 18 03:40:29 2024
 ####
 
 # Dedicated to God the Father
-# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
-# https://github.com/ChristopherTopalian
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
 # https://sites.google.com/view/CollegeOfScripting
 ```
 
@@ -2747,6 +2982,65 @@ show_clock()
 # Dedicated to God the Father
 # (c) Copyright 2000-2026 Christopher Andrew Topalian. All rights reserved.
 # https://github.com/ChristopherAndrewTopalian
+```
+
+---
+
+## Section: date_if_day
+
+### `date_if_day.py`
+
+```python
+# date_if_day.py
+
+import datetime
+
+def get_year():
+    return datetime.datetime.now().year
+
+def get_month():
+    return datetime.datetime.now().month
+
+def get_day_of_month():
+    return datetime.datetime.now().day
+
+def main():
+    year = get_year()
+    month = get_month()
+    day_of_month = get_day_of_month()
+
+    # Open a file for writing
+    with open("output.txt", "w") as file:
+        # Print to the console
+        print(f"Year: {year}")
+        print(f"Month: {month}")
+        print(f"Day of Month: {day_of_month}")
+
+        # Print to the file
+        file.write(f"Year: {year}\n")
+        file.write(f"Month: {month}\n")
+        file.write(f"Day of Month: {day_of_month}\n")
+
+        # Check if it is the 30th day
+        day_alarm = 30
+
+        if (day_of_month == day_alarm):
+            print("It is the 30")
+            file.write("It is the 30\n")
+        else:
+            print("It is NOT the 30")
+            file.write("It is NOT the 30\n")
+
+if __name__ == "__main__":
+    main()
+
+####
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
 ```
 
 ---
@@ -2848,6 +3142,90 @@ input('Press Enter to Exit')
 # Dedicated to God the Father
 # (c) Copyright 2000-2026 Christopher Andrew Topalian. All rights reserved.
 # https://github.com/ChristopherAndrewTopalian
+```
+
+---
+
+### `random_10_choice.py`
+
+```python
+# random_10_choice.py
+
+from random import choice
+
+for i in range(10):
+   print(choice(("one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten")))
+
+input("Press Enter to Exit")
+
+####
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `random_10_choice_variable.py`
+
+```python
+# random_10_choice_variable.py
+
+from random import choice
+
+for i in range(10):
+   #print(choice(["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"]))
+
+   theChoices = choice(["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"])
+
+   print(theChoices)
+
+input("Press Enter to Exit")
+
+####
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `random_choice.py`
+
+```python
+# random_choice.py
+
+import random
+
+languages = ["JavaScript", "Python", "C"]
+
+print(random.choice(languages))
+
+input('Press Enter to Exit')
+
+'''
+Class: random
+Function: choice()
+Syntax: random.choice(seq)
+Parameters:
+    seq: A sequence (list, tuple, string) from which a random element will be chosen.
+Returns:
+    A randomly selected element from the non-empty sequence.
+'''
+
+####
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
 ```
 
 ---
@@ -3048,6 +3426,63 @@ print(thePath)
 ---
 
 ## Section: 016_dir
+
+### `current_working_directory.py`
+
+```python
+# current_working_directory.py
+
+import os
+
+nameOfFolder = os.getcwd()
+
+print(nameOfFolder)
+
+input("Press Enter to Exit")
+
+####
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `get_file_path.py`
+
+```python
+# get_file_path.py
+
+import pathlib
+
+def getThisScriptFilePath():
+    fileName = pathlib.Path(__file__).parent.resolve()
+
+    return fileName
+
+print(__file__)
+
+input('Press Enter to Exit')
+
+# returns for example:
+# D:\_1Code\_2PY\_0\Topalian_Python_Date\py\path
+
+# It does not include the file name itself, which in this case is getFilePath.py
+
+# The special variable __file__ contains the path to the current file.
+# From that we can get the directory using pathlib
+# or we could alternatively use os.path module.
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# https://github.com/ChristopherTopalian
+# https://github.com/ChristopherAndrewTopalian
+```
+
+---
 
 ### `list_all_files_in_all_folders.py`
 
@@ -3461,6 +3896,112 @@ Makes a new folder with a specified name if it doesn't already exist.
 
 ---
 
+### `os_list_directory.py`
+
+```python
+# os_list_directory.py
+
+import os
+
+files = os.listdir('.')
+print(files)
+
+with open('check.txt', 'w') as ourFile:
+    ourFile.write(str(files))
+
+input("Press Enter to Exit")
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `os_path_dirname_listdir_realpath_print.py`
+
+```python
+# os_path_dirname_listdir_realpath_print.py
+
+import os
+
+path = os.path.dirname(os.path.realpath(__file__))
+
+theData = os.listdir(path)
+
+print(theData)
+
+input('Press Enter to Exit')
+
+####
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `os_path_dirname_listdir_realpath_write.py`
+
+```python
+# os_path_dirname_listdir_realpath_write.py
+
+import os
+
+path = os.path.dirname(os.path.realpath(__file__))
+
+theData = os.listdir(path)
+
+print(theData)
+
+with open('theFiles.txt', 'w') as ourFile:
+    ourFile.write(str(theData))
+
+input('Press Enter to Exit')
+
+####
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `pathlib_path_iterdir_append_fileNames.py`
+
+```python
+# pathlib_path_iterdir_append_fileNames.py
+
+import pathlib
+
+flist = [ ]
+
+for thePath in pathlib.Path('.').iterdir():
+    if thePath.is_file():
+        print(thePath)
+        flist.append(thePath)
+
+input("Press Enter to Exit")
+
+####
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
 ## Section: 017_startfile
 
 ### `startfile.py`
@@ -3521,14 +4062,212 @@ Makes a new text file with a specified name if it doesn't already exist.
 
 # Dedicated to God the Father
 # All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
-# https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
 # https://sites.google.com/view/CollegeOfScripting
 ```
 
 ---
 
 ## Section: 019_math
+
+### `abs.py`
+
+```python
+# abs.py
+
+ourNumber = -5
+
+print("Absolute value is ", abs(ourNumber))
+
+input("Press Enter to Exit")
+
+'''
+Absolute value is  5
+Press Enter to Exit
+'''
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `acos.py`
+
+```python
+# acos.py
+
+import math
+
+ourNumber = -1
+
+print("Arc Cosine value is ", math.acos(ourNumber))
+
+input("Press Enter to Exit")
+
+'''
+Arc Cosine value is  3.141592653589793
+Press Enter to Exit
+'''
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `add.py`
+
+```python
+# add.py
+
+def add_numbers(a, b):
+    c = a + b
+    return c
+
+answer = str(add_numbers(8,8))
+
+print(answer)
+
+input("Press Enter to Exit")
+
+'''
+16
+Press Enter to Exit
+'''
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `ceil.py`
+
+```python
+# math_ceil.js
+
+import math
+
+ourTitle = "Ceil App"
+
+def ceil_to_string():
+    ourText = math.ceil(4.25)
+    answer = str(ourText)
+    return answer
+
+print(ceil_to_string())
+
+input('Press Enter to Exit')
+
+'''
+5
+Press Enter to Exit
+'''
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `division.py`
+
+```python
+# division.py
+
+def ourFunction(a, b):
+    c = a / b
+    return c
+
+answer = str(ourFunction(16,4))
+
+print(answer)
+
+input("Press Enter to Exit")
+
+'''
+4.0
+Press Enter to Exit
+'''
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `exponent.py`
+
+```python
+# exponent.py
+
+ourText = 8**2
+ourTitle = "Power of App"
+
+ourText = str(ourText)
+
+print(ourText)
+
+input("Press Enter to Exit")
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `floor.py`
+
+```python
+# floor.py
+
+import ctypes
+import math
+
+ourTitle = "Floor App"
+
+def ourFunction():
+    ourText = math.floor(4.45)
+    answer = str(ourText)
+    return answer
+
+print(ourFunction())
+
+input("Press Enter to Exit")
+
+'''
+4
+Press Enter to Exit
+'''
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
 
 ### `is_prime.py`
 
@@ -3560,6 +4299,152 @@ if __name__ == "__main__":
 # All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `multiplication.py`
+
+```python
+# multiplication.py
+
+def ourFunction(a, b):
+    c = a * b
+    return c
+
+answer = str(ourFunction(4,4))
+
+print(answer)
+
+input("Press Enter to Exit")
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `pi.py`
+
+```python
+# pi.py
+
+import math
+
+ourTitle = "Value of Pi"
+
+def ourFunction():
+    ourText = math.pi
+    answer = str(ourText)
+    return answer
+
+print(ourFunction())
+
+input("Press Enter to Exit")
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `pow.py`
+
+```python
+# pow.py
+
+ourText = pow(8, 2)
+ourTitle = "Power of App"
+
+ourText = str(ourText)
+
+print(ourText)
+
+input("Press Enter to Exit")
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `round.py`
+
+```python
+# round.js
+
+ourText = round(24.34, 1)
+ourTitle = "Rounding App"
+
+ourText = str(ourText)
+
+print(ourText)
+
+input("Press Enter to Exit")
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `sqrt.py`
+
+```python
+# sqrt.py
+
+import math
+
+ourText = math.sqrt(4)
+ourTitle = "Square Root App"
+
+ourText = str(ourText)
+
+print(ourText)
+
+input("Press Enter to Exit")
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `subtract.py`
+
+```python
+# subtract.py
+
+def ourFunction(a, b):
+    c = a - b
+    return c
+
+answer = str(ourFunction(30,20))
+
+print(answer)
+
+input("Press Enter to Exit")
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
 # https://sites.google.com/view/CollegeOfScripting
 ```
 
@@ -5679,6 +6564,850 @@ Enter Last name: Topalian
 # Dedicated to God the Father
 # (c) Copyright 2000-2026 Christopher Andrew Topalian. All rights reserved.
 # https://github.com/ChristopherAndrewTopalian
+```
+
+---
+
+### `005_dictionary_of_dictionaries_show_key.py`
+
+```python
+# dictionary_of_dictionaries_show_key.py
+
+pokemon = {
+    "pikachu":
+    {
+        "name": "Pikachu",
+        "type": "Electric",
+        "friend": "Ash"
+    },
+
+    "charazar":
+    {
+        "name": "Charazar",
+        "type": "Fire",
+        "friend": "Someone"
+    }
+}
+
+print(pokemon["pikachu"])
+
+'''
+{'name': 'Pikachu', 'type': 'Electric', 'friend': 'Ash'}
+'''
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `006_dictionary_of_dictionaries_show_keys.py`
+
+```python
+# dictionary_of_dictionaries_show_keys.py
+
+pokemon = {
+    "pikachu":
+    {
+        "name": "Pikachu",
+        "type": "Electric",
+        "friend": "Ash"
+    },
+
+    "charizard":
+    {
+        "name": "Charizard",
+        "type": "Fire",
+    },
+
+    "charmander":
+    {
+        "name": "Charmander",
+        "type": "Fire",
+    }
+}
+
+for key in pokemon:
+    print(pokemon[key])
+
+'''
+{'name': 'Pikachu', 'type': 'Electric', 'friend': 'Ash'}
+{'name': 'Charizard', 'type': 'Fire'}
+{'name': 'Charmander', 'type': 'Fire'}
+'''
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `007_dictionary_of_dictionaries_sort_by_name.py.py`
+
+```python
+# dictionary_of_dictionaries_sort_by_name.py
+
+pokemon = {
+    "pikachu": {
+        "name": "Pikachu",
+        "type": "Electric",
+        "friend": "Ash"
+    },
+
+    "charizard": {
+        "name": "Charizard",
+        "type": "Fire",
+    },
+
+    "charmander": {
+        "name": "Charmander",
+        "type": "Fire",
+    }
+}
+
+# Sort by the inner 'name' key
+sorted_pokemon = dict(sorted(
+    pokemon.items(),
+    key=lambda item: item[1]['name']
+))
+
+# Print the sorted dictionary
+for key, data in sorted_pokemon.items():
+    print(key, data)
+
+'''
+charizard {'name': 'Charizard', 'type': 'Fire'}
+charmander {'name': 'Charmander', 'type': 'Fire'}
+pikachu {'name': 'Pikachu', 'type': 'Electric', 'friend': 'Ash'}
+'''
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `008_dictionary_of_dictionaries_sort_by_key.py`
+
+```python
+# dictionary_of_dictionaries_sort_by_key.py
+
+pokemon = {
+    "pikachu": {
+        "name": "Pikachu",
+        "type": "Electric",
+        "friend": "Ash"
+    },
+
+    "charizard": {
+        "name": "Charizard",
+        "type": "Fire",
+    },
+
+    "charmander": {
+        "name": "Charmander",
+        "type": "Fire",
+    }
+}
+
+# Sort by the inner 'name' key
+sorted_pokemon = dict(sorted(
+    pokemon.items(),
+    key=lambda item: item[1]['name']
+))
+
+print(sorted_pokemon)
+
+'''
+# Print the sorted dictionary
+for key, data in sorted_pokemon.items():
+    print(key, data)
+'''
+
+'''
+{'charizard': {'name': 'Charizard', 'type': 'Fire'}, 'charmander': {'name': 'Charmander', 'type': 'Fire'}, 'pikachu': {'name': 'Pikachu', 'type': 'Electric', 'friend': 'Ash'}}
+'''
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+## Section: 023_class
+
+### `001_class_show.py`
+
+```python
+# class_Pokemon.py
+
+class Pokemon:
+    def __init__(self, name, kind):
+        self.name = name
+        self.kind = kind
+
+    def showInfo(self):
+        print("Name: " + self.name + "\n" + "Kind: " + self.kind)
+
+    # This controls how the object looks when printed inside a dictionary or list
+    def __repr__(self):
+        return f"{self.name} ({self.kind} type)"
+
+pikachu = Pokemon(
+    "Pikachu",   #name
+    "Electric"   #kind
+)
+
+ash_inventory = {}
+
+# Add Pikachu using his name as the dictionary key
+ash_inventory[pikachu.name] = pikachu
+
+print("Ash's Inventory")
+print(ash_inventory)
+
+# You can now retrieve Pikachu out of the dictionary by name to call his methods
+print("\nPulling from Inventory")
+ash_inventory['Pikachu'].showInfo()
+
+input("\nPress Enter to Exit")
+
+'''
+Name: Pikachu
+Kind: Electric
+Press Enter to Exit
+'''
+
+####
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `002_class_pokemon_use_method.py`
+
+```python
+# class_pokemon_use_method.py
+
+class Pokemon:
+    def __init__(this, name, kind):
+        this.name = name
+        this.kind = kind
+
+    def showInfo(this):
+        print("Name: " + this.name + "\n" + "Kind: " + this.kind)
+
+pikachu = Pokemon(
+"Pikachu",   #name
+"Electric"     #kind
+)
+
+pikachu.showInfo()
+
+input("Press Enter to Exit")
+
+'''
+Name: Pikachu
+Kind: Electric
+Press Enter to Exit
+'''
+
+####
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `find_path_of_class.py`
+
+```python
+# find_path_of_class.py
+
+import inspect
+
+print(inspect.getfile(inspect))
+input('Press Enter to Exit')
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# https://github.com/ChristopherTopalian
+# https://github.com/ChristopherAndrewTopalian
+```
+
+---
+
+### `find_path_of_class_and_open.py`
+
+```python
+# find_path_of_class_and_open.py
+
+import datetime
+import inspect
+import os
+
+# Get the file path of the datetime module
+datetime_path = inspect.getfile(datetime)
+print(f"Path of datetime module: {datetime_path}")
+
+# Check if the path is a file and readable
+if os.path.isfile(datetime_path):
+    with open(datetime_path, 'r') as file:
+        content = file.read()
+        print("Content of the datetime module:")
+        print(content)
+else:
+    print("The datetime module is a built-in module and does not have a .py file.")
+
+input('Press Enter to Exit')
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# https://github.com/ChristopherTopalian
+# https://github.com/ChristopherAndrewTopalian
+```
+
+---
+
+### `find_path_of_class_and_open_file.py`
+
+```python
+# find_path_of_class_and_open_file.py
+
+import datetime
+import inspect
+import os
+import subprocess
+import platform
+
+def open_module_in_editor(module):
+    try:
+        # Get the file path of the module
+        module_path = inspect.getfile(module)
+        print(f"Path of the module: {module_path}")
+
+        # Check if the path is a file and readable
+        if os.path.isfile(module_path):
+            # Open the file in the default editor based on the operating system
+            if platform.system() == 'Windows':
+                os.startfile(module_path)
+            elif platform.system() == 'Darwin':  # macOS
+                subprocess.call(('open', module_path))
+            else:  # Linux and other Unix-like systems
+                subprocess.call(('xdg-open', module_path))
+        else:
+            print(f"{module.__name__} is a built-in module and does not have a .py file.")
+    except TypeError:
+        print(f"{module.__name__} is a built-in module and does not have a .py file.")
+
+# Example usage
+open_module_in_editor(datetime)
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# https://github.com/ChristopherTopalian
+# https://github.com/ChristopherAndrewTopalian
+```
+
+---
+
+### `find_path_of_class_and_open_file_2.py`
+
+```python
+# find_path_of_class_and_open_file_2.py
+
+import datetime
+import inspect
+import os
+import subprocess
+import platform
+
+def open_module_in_editor(module):
+    try:
+        # Get the file path of the module
+        module_path = inspect.getfile(module)
+        print(f"Path of the module: {module_path}")
+
+        # Check if the path is a file and readable
+        if os.path.isfile(module_path):
+            editor = "code"  # Replace with your preferred editor's command
+            # Open the file in the specified editor based on the operating system
+            if platform.system() == 'Windows':
+                f = open(module_path, "r")
+                print(f.read()) 
+                #subprocess.call([editor, module_path])
+            elif platform.system() == 'Darwin':  # macOS
+                subprocess.call([editor, module_path])
+            else:  # Linux and other Unix-like systems
+                subprocess.call([editor, module_path])
+        else:
+            print(f"{module.__name__} is a built-in module and does not have a .py file.")
+    except TypeError:
+        print(f"{module.__name__} is a built-in module and does not have a .py file.")
+
+# Example usage
+open_module_in_editor(datetime)
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# https://github.com/ChristopherTopalian
+# https://github.com/ChristopherAndrewTopalian
+```
+
+---
+
+## Section: 024_file
+
+### `append_to_file.py`
+
+```python
+# append_to_file.py
+
+with open("myscripts.txt", "a") as file:
+    file.write("This line is being added to the end.\n")
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `append_to_file_input.py`
+
+```python
+# Open the file once in 'a' (append) mode
+with open('text001.txt', 'a') as file:
+    print("Type your words (Type 'exit' to stop):")
+    
+    while True:
+        words = input('> ')
+        
+        # Check if the user wants to stop
+        if words.lower() == 'exit':
+            print("Closing file...")
+            break 
+            
+        # Write the word and a newline
+        file.write(words + '\n')
+        # file.flush() # Optional: forces the save to disk immediately
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `append_to_file_input_ensure_write.py`
+
+```python
+import os
+
+with open('text001.txt', 'a') as file:
+    while True:
+        words = input('Enter words (or "exit"): ')
+        if words.lower() == 'exit': break
+        
+        file.write(words + '\n')
+        
+        # Force the data out of Python's buffer
+        file.flush()
+        # Force the OS to write to the physical disk
+        os.fsync(file.fileno())
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `open_readline_for_correct.py`
+
+```python
+# open_readline_for_correct.py
+
+import os
+
+file_path = os.path.join('C:' + os.sep, 'Users', 'ourUserName', 'Desktop', 'testFile.txt')
+
+with open(file_path, 'r') as theData:
+    for line in theData:
+        print(line, end='')
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `open_readline_for_correct_path.py`
+
+```python
+from pathlib import Path
+
+file_path = Path('C:/') / 'Users' / 'ourUserName' / 'Desktop' / 'testFile.txt'
+
+with open(file_path, 'r') as theData:
+    for line in theData:
+        print(line, end='')
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `open_readline_for_correct_path_getpass.py`
+
+```python
+# open_readline_for_correct_path_getpass.py
+
+from pathlib import Path
+import getpass
+
+username = getpass.getuser()
+
+file_path = Path('C:/') / 'Users' / username / 'Desktop' / 'testFile.txt'
+
+with open(file_path, 'r') as theData:
+    for line in theData:
+        print(line, end='')
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `path.py`
+
+```python
+# path.py
+
+import os
+
+def get_file_path(file_name):
+    # Get the absolute path of the file
+    absolute_path = os.path.abspath(file_name)
+    return absolute_path
+
+# Example usage
+file_name = 'example_file.py'
+
+file_path = get_file_path(file_name)
+
+print(f"The absolute path of the file is: {file_path}")
+
+input('Press Enter to Exit')
+
+"""
+    Get the absolute path of a file.
+    
+    Parameters:
+    file_name (str): The name or relative path of the file.
+    
+    Returns:
+    str: The absolute path of the file.
+"""
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+## Section: windows_only
+
+### `os_startfile.py`
+
+```python
+# os_startfile.py
+
+import os
+
+os.startfile('C:/Users/ourUserName/Desktop/testFile.odt')
+
+# This version only works on Windows.
+# As we see, we are using a / forward slash.
+# The / forward slash only works on Windows.
+# To make a cross platform version,
+# we must use os.path.join instead,
+# alternatively we could use the Path library
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+## Section: wrong_ways
+
+### `open_readline.py`
+
+```python
+# open_readline.py
+
+theData = open('C:/Users/energy/Desktop/testFile.txt', 'r')
+
+firstline = theData.readline()
+
+secondline = theData.readline()
+
+print(firstline)
+
+print(secondline)
+
+theData.close()
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `open_readline_for.py`
+
+```python
+# open_readline_for.py
+
+theData = open('C:/Users/energy/Desktop/testFile.txt', 'r')
+
+for line in theData:
+    print (line, end = '')
+
+theData.close()
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+## Section: 025_list_of_dictionaries
+
+### `list_of_dictionaries_show_all.py`
+
+```python
+# list_of_dictionaries_show_all.py
+
+people = [
+    { 
+        'firstName' : 'John', 
+        'lastName' : 'Rambo', 
+        'dob' : '3-1-1977', 
+        'weight' : '170'
+    },
+    { 
+        'firstName' : 'Jesse', 
+        'lastName' : 'Tomson', 
+        'dob' : '1-8-1978', 
+        'weight' : '185'
+    }
+]
+
+print(people)
+
+input("Press Enter to Exit")
+
+'''
+[{'firstName': 'John', 'lastName': 'Rambo', 'dob': '3-1-1977', 'weight': '170'}, {'firstName': 'Jesse', 'lastName': 'Tomson', 'dob': '1-8-1978', 'weight': '185'}]
+Press Enter to Exit
+'''
+
+####
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `list_of_dictionaries_show_all_json.py`
+
+```python
+# list_of_dictionaries_show_all_json.py
+
+import json
+
+people = [
+    { 
+        'firstName' : 'John', 
+        'lastName' : 'Rambo', 
+        'dob' : '3-1-1977', 
+        'weight' : '170'
+    },
+    { 
+        'firstName' : 'Jesse', 
+        'lastName' : 'Tomson', 
+        'dob' : '1-8-1978', 
+        'weight' : '185'
+    }
+]
+
+print(json.dumps(people, indent=4))
+
+input("Press Enter to Exit")
+
+'''
+[
+    {
+        "firstName": "John",
+        "lastName": "Rambo",
+        "dob": "3-1-1977",
+        "weight": "170"
+    },
+    {
+        "firstName": "Jesse",
+        "lastName": "Tomson",
+        "dob": "1-8-1978",
+        "weight": "185"
+    }
+]
+Press Enter to Exit
+'''
+
+####
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `list_of_dictionaries_show_all_pprint.py`
+
+```python
+# list_of_dictionaries_show_all_pprint.py
+
+from pprint import pprint
+
+people = [
+    { 
+        'firstName' : 'John', 
+        'lastName' : 'Rambo', 
+        'dob' : '3-1-1977', 
+        'weight' : '170'
+    },
+    { 
+        'firstName' : 'Jesse', 
+        'lastName' : 'Tomson', 
+        'dob' : '1-8-1978', 
+        'weight' : '185'
+    }
+]
+
+pprint(people)
+
+input("Press Enter to Exit")
+
+'''
+[{'dob': '3-1-1977', 'firstName': 'John', 'lastName': 'Rambo', 'weight': '170'},
+ {'dob': '1-8-1978',
+  'firstName': 'Jesse',
+  'lastName': 'Tomson',
+  'weight': '185'}]
+'''
+
+'''
+Notice it alphabetized the keys within each dictionary (dob before firstName) — that's pprint's default sorting behavior, not something you controlled. If you want to preserve your original key order, add sort_dicts=False: pprint(people, sort_dicts=False).
+'''
+
+####
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `list_of_dictionaries_show_first_person.py`
+
+```python
+# list_of_dictionaries_show_first_person.py
+
+people = [
+    { 
+        'firstName' : 'John', 
+        'lastName' : 'Rambo', 
+        'dob' : '3-1-1977', 
+        'weight' : '170'
+    },
+    { 
+        'firstName' : 'Jesse', 
+        'lastName' : 'Tomson', 
+        'dob' : '1-8-1978', 
+        'weight' : '185'
+    }
+]
+
+print (people[1])
+
+####
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
+# https://github.com/ChristopherAndrewTopalian
+# https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
 ```
 
 ---

@@ -1,28 +1,21 @@
-# repeat_print.py
+# print_separator.py
 
-name = 'Jane'
+ourList = [ 1, 2, 3, 4, 5 ]
 
-def repeatPrint(whichMessage, whichAmount):
-    for i in range(1, whichAmount + 1):
-        print(whichMessage)
+print(*ourList, sep="\n")
 
-####
-
-repeatPrint(name, 5)
-
-input('Press Enter to Exit')
+input("Press Enter to Exit")
 
 ####
 
 '''
-Jane
-Jane
-Jane
-Jane
-Jane
+1
+2
+3
+4
+5
+Press Enter to Exit
 '''
-
-####
 
 # Dedicated to God the Father
 # All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025

@@ -24,6 +24,12 @@
 
 * [010_repeat_print.py](src/py/001_print/010_repeat_print.py)
 
+* [011_print_separator.py](src/py/001_print/011_print_separator.py)
+
+* [012_print_list_simple.py](src/py/001_print/012_print_list_simple.py)
+
+* [013_text_multiline.py](src/py/001_print/013_text_multiline.py)
+
 ---
 
 ### 002_sleep
@@ -56,11 +62,21 @@
 
 * [008_for_in_letters.py](src/py/003_for/008_for_in_letters.py)
 
+* [009_for_in_list_loop.py](src/py/003_for/009_for_in_list_loop.py)
+
+* [010_for_in_loop_2.py](src/py/003_for/010_for_in_loop_2.py)
+
+* [011_for_in_list_loop_reversed.py](src/py/003_for/011_for_in_list_loop_reversed.py)
+
+* [012_for_in_list_loop_variable_reversed.py](src/py/003_for/012_for_in_list_loop_variable_reversed.py)
+
 ---
 
 ### 003_while_loop
 
-* [001_while_loop_if.py](src/py/003_while_loop/001_while_loop_if.py)
+* [001_while_True.py](src/py/003_while_loop/001_while_True.py)
+
+* [002_while_loop_if.py](src/py/003_while_loop/002_while_loop_if.py)
 
 ---
 
@@ -148,6 +164,8 @@
 
 * [009_list_dir.py](src/py/005_info/009_list_dir.py)
 
+* [010_what_type_is_variable.py](src/py/005_info/010_what_type_is_variable.py)
+
 ---
 
 ### 006_string
@@ -234,6 +252,12 @@
 
 ---
 
+### date_if_day
+
+* [date_if_day.py](src/py/012_datetime/date_if_day/date_if_day.py)
+
+---
+
 ### 013_random
 
 * [001_random_integer_0_to_10.py](src/py/013_random/001_random_integer_0_to_10.py)
@@ -243,6 +267,12 @@
 * [003_random_float_1_to_10_round.py](src/py/013_random/003_random_float_1_to_10_round.py)
 
 * [004_random_float_0_to_1.py](src/py/013_random/004_random_float_0_to_1.py)
+
+* [random_10_choice.py](src/py/013_random/random_10_choice.py)
+
+* [random_10_choice_variable.py](src/py/013_random/random_10_choice_variable.py)
+
+* [random_choice.py](src/py/013_random/random_choice.py)
 
 ---
 
@@ -272,6 +302,10 @@
 
 ### 016_dir
 
+* [current_working_directory.py](src/py/016_dir/current_working_directory.py)
+
+* [get_file_path.py](src/py/016_dir/get_file_path.py)
+
 * [list_all_files_in_all_folders.py](src/py/016_dir/list_all_files_in_all_folders.py)
 
 * [list_all_files_paths_in_all_folders.py](src/py/016_dir/list_all_files_paths_in_all_folders.py)
@@ -292,6 +326,14 @@
 
 * [make_folder_if_not_already_made.py](src/py/016_dir/make_folder_if_not_already_made.py)
 
+* [os_list_directory.py](src/py/016_dir/os_list_directory.py)
+
+* [os_path_dirname_listdir_realpath_print.py](src/py/016_dir/os_path_dirname_listdir_realpath_print.py)
+
+* [os_path_dirname_listdir_realpath_write.py](src/py/016_dir/os_path_dirname_listdir_realpath_write.py)
+
+* [pathlib_path_iterdir_append_fileNames.py](src/py/016_dir/pathlib_path_iterdir_append_fileNames.py)
+
 ---
 
 ### 017_startfile
@@ -308,7 +350,33 @@
 
 ### 019_math
 
+* [abs.py](src/py/019_math/abs.py)
+
+* [acos.py](src/py/019_math/acos.py)
+
+* [add.py](src/py/019_math/add.py)
+
+* [ceil.py](src/py/019_math/ceil.py)
+
+* [division.py](src/py/019_math/division.py)
+
+* [exponent.py](src/py/019_math/exponent.py)
+
+* [floor.py](src/py/019_math/floor.py)
+
 * [is_prime.py](src/py/019_math/is_prime.py)
+
+* [multiplication.py](src/py/019_math/multiplication.py)
+
+* [pi.py](src/py/019_math/pi.py)
+
+* [pow.py](src/py/019_math/pow.py)
+
+* [round.py](src/py/019_math/round.py)
+
+* [sqrt.py](src/py/019_math/sqrt.py)
+
+* [subtract.py](src/py/019_math/subtract.py)
 
 ---
 
@@ -419,5 +487,73 @@
 * [003_dictionary_of_dictionaries_lookup.py](src/py/022_dictionary_of_dictionaries/003_dictionary_of_dictionaries_lookup.py)
 
 * [004_add_dictionary_to_dictionary.py](src/py/022_dictionary_of_dictionaries/004_add_dictionary_to_dictionary.py)
+
+* [005_dictionary_of_dictionaries_show_key.py](src/py/022_dictionary_of_dictionaries/005_dictionary_of_dictionaries_show_key.py)
+
+* [006_dictionary_of_dictionaries_show_keys.py](src/py/022_dictionary_of_dictionaries/006_dictionary_of_dictionaries_show_keys.py)
+
+* [007_dictionary_of_dictionaries_sort_by_name.py.py](src/py/022_dictionary_of_dictionaries/007_dictionary_of_dictionaries_sort_by_name.py.py)
+
+* [008_dictionary_of_dictionaries_sort_by_key.py](src/py/022_dictionary_of_dictionaries/008_dictionary_of_dictionaries_sort_by_key.py)
+
+---
+
+### 023_class
+
+* [001_class_show.py](src/py/023_class/001_class_show.py)
+
+* [002_class_pokemon_use_method.py](src/py/023_class/002_class_pokemon_use_method.py)
+
+* [find_path_of_class.py](src/py/023_class/find_path_of_class.py)
+
+* [find_path_of_class_and_open.py](src/py/023_class/find_path_of_class_and_open.py)
+
+* [find_path_of_class_and_open_file.py](src/py/023_class/find_path_of_class_and_open_file.py)
+
+* [find_path_of_class_and_open_file_2.py](src/py/023_class/find_path_of_class_and_open_file_2.py)
+
+---
+
+### 024_file
+
+* [append_to_file.py](src/py/024_file/append_to_file.py)
+
+* [append_to_file_input.py](src/py/024_file/append_to_file_input.py)
+
+* [append_to_file_input_ensure_write.py](src/py/024_file/append_to_file_input_ensure_write.py)
+
+* [open_readline_for_correct.py](src/py/024_file/open_readline_for_correct.py)
+
+* [open_readline_for_correct_path.py](src/py/024_file/open_readline_for_correct_path.py)
+
+* [open_readline_for_correct_path_getpass.py](src/py/024_file/open_readline_for_correct_path_getpass.py)
+
+* [path.py](src/py/024_file/path.py)
+
+---
+
+### windows_only
+
+* [os_startfile.py](src/py/024_file/windows_only/os_startfile.py)
+
+---
+
+### wrong_ways
+
+* [open_readline.py](src/py/024_file/windows_only/wrong_ways/open_readline.py)
+
+* [open_readline_for.py](src/py/024_file/windows_only/wrong_ways/open_readline_for.py)
+
+---
+
+### 025_list_of_dictionaries
+
+* [list_of_dictionaries_show_all.py](src/py/025_list_of_dictionaries/list_of_dictionaries_show_all.py)
+
+* [list_of_dictionaries_show_all_json.py](src/py/025_list_of_dictionaries/list_of_dictionaries_show_all_json.py)
+
+* [list_of_dictionaries_show_all_pprint.py](src/py/025_list_of_dictionaries/list_of_dictionaries_show_all_pprint.py)
+
+* [list_of_dictionaries_show_first_person.py](src/py/025_list_of_dictionaries/list_of_dictionaries_show_first_person.py)
 
 ---
