@@ -184,6 +184,10 @@
 
 * [004_username_if_else.py](src/py/006_string/004_username_if_else.py)
 
+* [005.1_split_with_delimiter.py](src/py/006_string/005.1_split_with_delimiter.py)
+
+* [005.2_split_without_punctuation.py](src/py/006_string/005.2_split_without_punctuation.py)
+
 * [005_split_words.py](src/py/006_string/005_split_words.py)
 
 * [006_slice_start_stop.py](src/py/006_string/006_slice_start_stop.py)

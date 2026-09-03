@@ -1884,6 +1884,11 @@ input('Press Enter to Exit')
 
 ####
 
+'''
+ourUserName
+Press Enter to Exit
+'''
+
 # Dedicated to God the Father
 # All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
@@ -1907,6 +1912,11 @@ print(osName)
 input('Press Enter to Exit')
 
 ####
+
+'''
+Windows
+Press Enter to Exit
+'''
 
 # Dedicated to God the Father
 # All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
@@ -1958,13 +1968,18 @@ input('Press Enter to Exit')
 
 import os
 
-fileName = 'get_bytes.py'
+fileName = '006_get_bytes.py'
 
-print(os.stat(fileName).st_size + 'bytes')
+print(f"{os.stat(fileName).st_size} bytes")
 
 input('Press Enter to Exit')
 
 ####
+
+'''
+398 bytes
+Press Enter to Exit
+'''
 
 # Dedicated to God the Father
 # All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
@@ -1983,7 +1998,7 @@ input('Press Enter to Exit')
 import os
 import datetime as dt
 
-fileName = 'get_stats.py'
+fileName = '007_get_last_modified_time.py'
 
 lastModifiedTime = os.stat(fileName).st_atime 
 
@@ -1994,6 +2009,11 @@ print(mtime)
 input('Press Enter to Exit')
 
 ####
+
+'''
+2026-09-03 07:19:30.605857
+Press Enter to Exit
+'''
 
 # Dedicated to God the Father
 # All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
@@ -2018,6 +2038,11 @@ print(os.stat(name))
 input('Press Enter to Exit')
 
 ####
+
+'''
+os.stat_result(st_mode=33206, st_ino=562949954828074, st_dev=1465936725456818466, st_nlink=1, st_uid=0, st_gid=0, st_size=370, st_atime=1788434412, st_mtime=1788383884, st_ctime=1719908547)
+Press Enter to Exit
+'''
 
 # Dedicated to God the Father
 # All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
@@ -2284,6 +2309,61 @@ Hi Jane. Tell Christopher to sign in.
 # Dedicated to God the Father
 # All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 # https://github.com/ChristopherTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `005.1_split_with_delimiter.py`
+
+```python
+# split_with_delimiter.py
+
+text = "sun,moon,sky,ground"
+
+words = text.split(",")
+
+print(words)
+
+'''
+['sun', 'moon', 'sky', 'ground']
+'''
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
+# https://github.com/ChristopherTopalian
+# https://github.com/ChristopherAndrewTopalian
+# https://sites.google.com/view/CollegeOfScripting
+```
+
+---
+
+### `005.2_split_without_punctuation.py`
+
+```python
+# split_without_punctuation.py
+
+import re
+
+text = "Hi, everyone! Python is very fun."
+# Matches any sequence of alphanumeric characters
+
+words = re.findall(r'\w+', text)
+
+print(words)
+
+'''
+['Hi', 'everyone', 'Python', 'is', 'very', 'fun']
+'''
+
+'''
+When our sentence has punctuation signs, but we only want the words, we use the Regular Expression re.findall(r'\w+', text)
+'''
+
+# Dedicated to God the Father
+# All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
+# https://github.com/ChristopherTopalian
+# https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
 ```
 
