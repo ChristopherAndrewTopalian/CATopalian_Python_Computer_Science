@@ -3,7 +3,7 @@
 import os
 import datetime as dt
 
-fileName = 'get_stats.py'
+fileName = '007_get_last_modified_time.py'
 
 lastModifiedTime = os.stat(fileName).st_atime 
 
@@ -14,6 +14,11 @@ print(mtime)
 input('Press Enter to Exit')
 
 ####
+
+'''
+2026-09-03 07:19:30.605857
+Press Enter to Exit
+'''
 
 # Dedicated to God the Father
 # All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
