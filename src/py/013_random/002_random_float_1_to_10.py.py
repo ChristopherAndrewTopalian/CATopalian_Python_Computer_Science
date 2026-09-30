@@ -4,6 +4,7 @@ import random
 
 # Generate a random float between 1 and 10
 random_float = random.uniform(1, 10)
+
 print(random_float)
 
 ####
